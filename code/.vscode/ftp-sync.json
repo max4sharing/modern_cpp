@@ -1,0 +1,27 @@
+{
+    "remotePath": "/home/mcong/C++11",
+    "host": "135.251.166.251",
+    "username": "mcong",
+    "password": "mcong",
+    "port": 22,
+    "secure": false,
+    "protocol": "sftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}
